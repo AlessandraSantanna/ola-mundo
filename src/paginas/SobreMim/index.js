@@ -25,7 +25,7 @@ export default function SobreMim(){
             Comecei a estudar frontend há 1 ano e estou adorando cada passo dessa jornada.
          Meu objetivo é me tornar um(a) desenvolvedor(a) full stack.
          </p>
-        className={styles.paragrafo}
+  
          <p className={styles.paragrafo}>
            Olá! Sou Alessandra e estou embarcando em uma jornada fascinante no mundo da programação.
          Sempre fui apaixonado(a) por tecnologia e a ideia de criar algo do zero me fascina. 
