@@ -18,22 +18,20 @@ export default function SobreMim(){
         className={styles.fotoSobreMim} 
       />
         <p className={styles.paragrafo}>
-         Olá! Sou Alessandra e estou embarcando em uma jornada fascinante no mundo da programação.
-         Sempre fui apaixonado(a) por tecnologia e a ideia de criar algo do zero me fascina. 
+        Sou um(a) desenvolvedor(a) full-stack em início de carreira, apaixonado(a)
+         por criar soluções inovadoras através da tecnologia. Tenho me dedicado a aprender
+          as bases da programação, como HTML, CSS e JavaScript, 
+        e estou explorando frameworks como React para construir interfaces mais dinâmicas.
          </p> 
          <p className={styles.paragrafo}>
-            Comecei a estudar frontend há 1 ano e estou adorando cada passo dessa jornada.
-         Meu objetivo é me tornar um(a) desenvolvedor(a) full stack.
+         Recentemente, desenvolvi o Projeto Olá Mundo! que me permitiu aplicar os
+          conhecimentos adquiridos e aprimorar minhas habilidades em HTML, CSS e JavaScript e React( router dom).
+           Meu objetivo é me tornar uma especialista em React e contribuir para
+            o desenvolvimento de projetos desafiadores. Acredito que a programação
+          é uma área em constante evolução e estou sempre buscando novas oportunidades de aprendizado.
          </p>
   
-         <p className={styles.paragrafo}>
-           Olá! Sou Alessandra e estou embarcando em uma jornada fascinante no mundo da programação.
-         Sempre fui apaixonado(a) por tecnologia e a ideia de criar algo do zero me fascina. 
-         </p>
-         <p className={styles.paragrafo}>
-          Comecei a estudar frontend há 1 ano e estou adorando cada passo dessa jornada.
-         Meu objetivo é me tornar um(a) desenvolvedor(a) full stack.
-         </p>
+        
 
     </PostModelo>
   );
