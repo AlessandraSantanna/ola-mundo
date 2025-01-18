@@ -10,10 +10,10 @@ export default function Banner() {
           Olá mundo!
         </h1>
         <p className={styles.paragrafo}>
-          Olá! Sou Alessandra e estou embarcando em uma jornada fascinante no mundo da programação.
-          Sempre fui apaixonado(a) por tecnologia e a ideia de criar algo do zero me fascina. Comecei
-          a estudar desenvolvimento frontend há 1 ano e estou adorando cada passo dessa jornada.
-          Meu objetivo é me tornar um(a) desenvolvedor(a) full stack.
+        Boas vindas ao meu espaço pessoal!  Sou Alessandra, desenvolvedora Front-end.
+           Aqui compartilho vários conhecimentos, 
+        espero que aprenda algo novo!
+          
         </p>
       </div>
       <div className={styles.imagens}>

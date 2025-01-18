@@ -20,8 +20,8 @@ export default function SobreMim(){
         <p className={styles.paragrafo}>
         Sou um(a) desenvolvedor(a) full-stack em início de carreira, apaixonado(a)
          por criar soluções inovadoras através da tecnologia. Tenho me dedicado a aprender
-          as bases da programação, como HTML, CSS e JavaScript, 
-        e estou explorando frameworks como React para construir interfaces mais dinâmicas.
+          as bases da programação, como HTML, CSS e JavaScript estou explorando frameworks 
+          como React para construir interfaces mais dinâmicas.
          </p> 
          <p className={styles.paragrafo}>
          Recentemente, desenvolvi o Projeto Olá Mundo! que me permitiu aplicar os
